@@ -33,11 +33,13 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Redux Toolkit](https://redux-toolkit.js.org/tutorials/quick-start) - A quick start guide for using Redux Toolkit.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## MOREZQ Recommendations
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Install this plugin to your browser, and get hands on your Redex store with live view on the state and its changes.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+For Google Chrome --> [Redux Devtools Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+For Firefox --> [Redux Devtools add-on](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/)
