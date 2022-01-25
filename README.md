@@ -1,7 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Next.js with Redux-Toolkit (Starter Code)
 
-## Getting Started
+This repository shows how to use Next.js along with Redux Toolkit.
 
+## Demo (Preview)
+
+Preview the example live on [StackBlitz]()
+
+## How to use?
+
+This complete easy [Youtube Tutorial]() will help you get started with this Redux Toolkit example in less than 10 minutes.
+
+First,
 First, run the development server:
 
 ```bash
