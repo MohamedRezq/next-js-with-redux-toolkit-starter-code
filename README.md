@@ -41,5 +41,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 Install this plugin to your browser, and get hands on your Redex store with live view on the state and its changes.
 
-For Google Chrome --> [Redux Devtools Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
-For Firefox --> [Redux Devtools add-on](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/)
+- For Google Chrome --> [Redux Devtools Extension](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
+- For Firefox --> [Redux Devtools add-on](https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/)
